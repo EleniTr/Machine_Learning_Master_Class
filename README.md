@@ -9,3 +9,5 @@ Project 3: https://colab.research.google.com/drive/1yjSUyIQjETXqwygeQPoV-6cSkR0P
 Project 4: https://colab.research.google.com/drive/1zWPYnY8In6syHlkSgpLeJywEytHwknYo?usp=sharing
 
 Project 5: https://colab.research.google.com/drive/1vsEYN16yRY1GAbsoefoxjFv5VERTu08Y?usp=sharing
+
+Project 6: https://colab.research.google.com/drive/1Xnl7DjY6aHyvwz5dLerKy9-jo5XcInYY?usp=sharing
