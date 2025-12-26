@@ -13,3 +13,5 @@ Project 5: https://colab.research.google.com/drive/1vsEYN16yRY1GAbsoefoxjFv5VERT
 Project 6: https://colab.research.google.com/drive/1Xnl7DjY6aHyvwz5dLerKy9-jo5XcInYY?usp=sharing
 
 Project 7: https://colab.research.google.com/drive/1vpXX4s4SV92w9vDKk99CEdZOEJI5TPS5?usp=sharing
+
+Project 8: https://colab.research.google.com/drive/1QOdgqfjFNG4OzCVnToImrbqXgENBl1Wf?usp=sharing
